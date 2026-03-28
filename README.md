@@ -59,10 +59,10 @@ No me enfoco en features, me enfoco en **impacto real y sistemas que escalan**.
 
 ---
 
-## 🧩
-
-![cover](https://i.pinimg.com/1200x/ad/b1/37/adb137b5a8383b44ba81323aa8df9345.jpg)
+⭐️ Construyendo productos con criterio, no solo backlog.
 
 ---
 
-⭐️ Construyendo productos con criterio, no solo backlog.
+## Good bye humans !
+
+![cover](https://i.pinimg.com/originals/04/27/a2/0427a2469f27e66362eb6d9be8f53ca0.gif)
