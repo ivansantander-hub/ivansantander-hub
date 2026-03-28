@@ -8,8 +8,8 @@
 
 ## 🧠
 
-Construyo productos en la intersección entre negocio, tecnología y data.
-No me enfoco en features, me enfoco en **impacto real y sistemas que escalan**.
+Trabajo con equipos para convertir ideas en soluciones que funcionan en la práctica.
+Busco equilibrio entre velocidad, calidad y sostenibilidad.
 
 ---
 
@@ -63,6 +63,6 @@ No me enfoco en features, me enfoco en **impacto real y sistemas que escalan**.
 
 ---
 
-## Good bye humans !
+**Good bye humans !**
 
 ![cover](https://i.pinimg.com/originals/04/27/a2/0427a2469f27e66362eb6d9be8f53ca0.gif)
