@@ -59,10 +59,6 @@ Busco equilibrio entre velocidad, calidad y sostenibilidad.
 
 ---
 
-⭐️ Construyendo productos con criterio, no solo backlog.
-
----
-
 **Good bye humans !**
 
 ![cover](https://i.pinimg.com/originals/04/27/a2/0427a2469f27e66362eb6d9be8f53ca0.gif)
