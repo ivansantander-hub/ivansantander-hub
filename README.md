@@ -1,4 +1,6 @@
-# 👋 Hola, soy Ivan Santander
+# 👋 Hola, soy Iván Santander
+
+🌐 [ivansantander.com](https://ivansantander.com) · casos y proyectos
 
 🚀 Technical Product Owner
 🤖 AI-driven products
